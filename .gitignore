@@ -43,4 +43,5 @@ app-example
 /android
 # Agent IA
 CLAUDE.md
-/.claude
+.claude/
+.vscode/
